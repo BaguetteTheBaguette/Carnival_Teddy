@@ -3,7 +3,8 @@ import tkinter as tk
 #from gpiozero import Button
 import random
 options = ("Rock", "Paper", "Scissors", "Lizard", "Spock")
-keyoptions = ("r", "p", "s", "l", "v", "a")
+keyoptions = ("r", "p", "s", "l", "v"#, "a"
+)
 results = (
     ("You & Teddy Tie", "Teddy Wins", "You Win!", "You Win!", "Teddy Wins", "Rock"),
 ("You Win!", "You & Teddy Tie", "Teddy Wins", "Teddy Wins", "You Win!", "Paper"),
