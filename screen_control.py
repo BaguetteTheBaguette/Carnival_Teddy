@@ -3,11 +3,12 @@ from tkinter import *
 from tkinter import ttk
 from PIL import Image
 
+
 #import gpiozero
 #from gpiozero import Button
 
-img = Image.open("Nanci_test.webp")
-img.show()
+#img = Image.open("Nanci_test.webp")
+#img.show()
 # from tkinter import *
 # from tkinter import ttk
 # root = Tk()
